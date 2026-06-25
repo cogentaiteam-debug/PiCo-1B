@@ -175,7 +175,7 @@ If you use PiCo 1B in your research or projects, please cite:
   title={PiCo 1B: A Compact Language Model Optimized for Reasoning},
   author={Arc Develop Team},
   year={2026},
-  howpublished={\url{https://github.com/pico-llm/pico-1b}},
+  howpublished={\url{https://github.com/cogentaiteam-debug/PiCo-1B}},
 }
 ```
 
