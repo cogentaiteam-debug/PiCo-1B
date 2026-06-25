@@ -7,6 +7,8 @@ language:
 
 > A 1B-parameter dense language model optimized for reasoning and knowledge tasks.
 >
+> Link: https://huggingface.co/ArcOffical/PiCo-1B/tree/main
+>
 > For clarity, our model uses the tokenizer from Qwen 2 1.5B but has been trained from scratch — it is not a fine-tuned version of Qwen 2 1.5B.
 
 ---
